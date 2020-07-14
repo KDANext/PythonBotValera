@@ -1,0 +1,5 @@
+TOKEN = '1299524873:AAHqWukuwFm-iU2hVOb8HyB38Sq9p8TbLA0'
+RANDOMCAT = 'https://aws.random.cat/meow'
+RANDOMDOG = 'https://random.dog/woof.json'
+RANDOMFOX = 'https://randomfox.ca/floof/'
+YESNO = 'https://yesno.wtf/api'
