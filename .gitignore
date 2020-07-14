@@ -9,6 +9,7 @@ __pycache__/
 .idea/
 venv/Scripts/
 build/
+config
 develop-eggs/
 dist/
 downloads/
