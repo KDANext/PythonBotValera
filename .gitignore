@@ -1,14 +1,15 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
 
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
+.idea/
+venv/Scripts/
 build/
+config
 develop-eggs/
 dist/
 downloads/
@@ -103,9 +104,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
 env/
-venv/
 ENV/
 env.bak/
 venv.bak/
@@ -127,3 +126,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+venv/config.py
